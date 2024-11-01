@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+ul.weather{list-style: none;
+border-radius: 10px;
+border: 1px solid;
+text-align:center;}
+li.info{font-size: 16px;
+font-weight: bold;
+border: none!important;}
+li.info span{padding:5px 10px;}
+ul.weather .icon img,.forcast_icon img{vertical-align:middle;}
+ul.weather li {padding: 10px;
+border-top: 1px solid;}
